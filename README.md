@@ -8,17 +8,14 @@
 
 
 ---
-### QUEM É GABRIEL CARVALHO NO MUNDO? 🌎
 
-Eu sou um profissional com mais de 4 anos de experiência em tecnologia da informação, atuando principalmente na área educacional em tecnologia, uma experiência bem próxima do público, formando dezenas de alunos a cada ano.
+I’m a Junior Data Engineer at Accenture Brazil, Teacher technologie at institution CENAIC - CENTRO NACIONAL INTEGRADO DE CURSOS, +4 years of experience, training dozens of students each year.
 
-Profissional graduado como Analista de Sistemas e um amante de dados, cujo objetivo de toda dedicação é aprender sobre novas ferramentas e linguagens para processos de dados.
+Graduade on Software Analysis and Development, i'm dedicare myself exclusively to data processing with big data tools. 
 
-Atualmente, eu estou aberto para novas experiências que me permitam desenvolver minhas próprias habilidades tecnológicas e penso em ampliar minhas experiências tanto de vida, como de trabalho.
-
-🧩 𝗦𝗸𝗶𝗹𝗹𝘀: Ecossistema Hadoop, Apache Spark, MongoDB, Airflow, Python, Linux, Pentaho, PowerBI, Processamento de dados, Análise de dados e Armazenamento de dados.
+I am open to new experiences that allow me to develop my own technological skills in Data Engineer / Big Data and I think about expanding my experiences in both life and work 
 
 --- 
-### Ferramentas, Linguagens e Processos :
+### Tools, processes and languages :
 
 ![Hadoop](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/1.%20Hadoop.png?raw=true)![Spark](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/2.%20Spark.png?raw=true)![MongoDB](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/3.%20MongoDB.png?raw=true)![MySQL](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/4.%20MySQL.png?raw=true)![AWS](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/5.%20AWS.png?raw=true)![Apache Airflow](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/6.%20Apache%20Airflow.png?raw=true)![Python](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/7.%20Python.png?raw=true)![PySpark](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/8.%20PySpark.png?raw=true)![Linux](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/9.%20Linux.png?raw=true)![Pentaho](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/10.%20Pentaho.png?raw=true)![PowerBI](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/11.%20PowerBI.png?raw=true)
