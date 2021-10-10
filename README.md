@@ -8,11 +8,11 @@
 
 ---
 
-I’m a Junior Data Engineer at Accenture Brazil, Teacher technologie at institution CENAIC - CENTRO NACIONAL INTEGRADO DE CURSOS, +4 years of experience, training dozens of students each year.
+:floppy_disk: I am a professional focused on Data Engineering working in Telecom projects at Accenture Brasil, mainly on Big Data and analytics tools.
 
-Graduade on Software Analysis and Development, i'm dedicare myself exclusively to data processing with big data tools. 
+In October 2021 I finished my cycle as a teacher at the institution CENAIC - CENTRO NACIONAL INTEGRADO DE CURSOS, with more than 4 years and 9 months teaching technology courses and graduating dozens of students, where I was able to obtain my experience in the classroom. :date:
 
-I am open to new experiences that allow me to develop my own technological skills in Data Engineer / Big Data and I think about expanding my experiences in both life and work 
+:ferris_wheel: I am open to new experiences that allow me to develop my own technological skills in Data Engineer / Big Data and I think about expanding my experiences in both life and work 
 
 --- 
 
