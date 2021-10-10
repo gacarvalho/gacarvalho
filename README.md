@@ -1,11 +1,10 @@
-![Sobre: Gabriel Carvalho](https://github.com/gacarvalho/gacarvalho/blob/main/git-imagens/readme-pessoal.png?raw=true)
-
----
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ogcarvalho/)](https://www.linkedin.com/in/ogcarvalho/)
-![Twitter](https://badgen.net/badge/Twitter/gacarvalhoj?icon=twitter&color=AEC3B0)
-![GitHub Views](https://komarev.com/ghpvc/?username=gacarvalho&color=AEC3B0)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gacarvalho/gacarvalho/main/git-imagens/readme-pessoal-at.png.png" target="_blank">
+  <hr>
+  <a href = "mailto:gacarvalho.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/gacarvalhoj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gacarvalhoj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
@@ -16,6 +15,33 @@ Graduade on Software Analysis and Development, i'm dedicare myself exclusively t
 I am open to new experiences that allow me to develop my own technological skills in Data Engineer / Big Data and I think about expanding my experiences in both life and work 
 
 --- 
+
 ### Tools, processes and languages :
 
-![Hadoop](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/1.%20Hadoop.png?raw=true)![Spark](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/2.%20Spark.png?raw=true)![MongoDB](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/3.%20MongoDB.png?raw=true)![MySQL](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/4.%20MySQL.png?raw=true)![AWS](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/5.%20AWS.png?raw=true)![Apache Airflow](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/6.%20Apache%20Airflow.png?raw=true)![Python](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/7.%20Python.png?raw=true)![PySpark](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/8.%20PySpark.png?raw=true)![Linux](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/9.%20Linux.png?raw=true)![Pentaho](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/10.%20Pentaho.png?raw=true)![PowerBI](https://github.com/gacarvalho/gacarvalho/blob/main/git-icones/11.%20PowerBI.png?raw=true)
+<div align="center">  
+  <img src="https://img.shields.io/badge/Hadoop-31A8FF?style=for-the-badge&logo=Hadoop&labelColor=0a446b&logoWidth=15" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=whitee" target="_blank">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Spark-FF9A00?style=for-the-badge&logo=Spark&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank">  
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank">  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank">
+  <img src="	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" target="_blank">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank">  
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/ETL-00000F?style=for-the-badge&logo=ETL&logoColor=white" target="_blank">
+  <hr>
+  <img src="https://komarev.com/ghpvc/?username=gacarvalho&color=AEC3B0" target="_blank">
+</div>
