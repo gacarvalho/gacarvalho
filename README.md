@@ -20,6 +20,10 @@ In October 2021 I finished my cycle as a teacher at the institution CENAIC - CEN
 
 <div align="center">  
   <img src="https://img.shields.io/badge/Hadoop-31A8FF?style=for-the-badge&logo=Hadoop&labelColor=0a446b&logoWidth=15" target="_blank">
+  <img src="https://img.shields.io/badge/Hive-777BB4?style=for-the-badge&logo=Hive&logoColor=white" target="_blank">  
+  <img src="https://img.shields.io/badge/Sqoop-777BB4?style=for-the-badge&logo=Sqoop&logoColor=white" target="_blank"> 
+  <img src="https://img.shields.io/badge/Yarn-777BB4?style=for-the-badge&logo=Yarn&logoColor=white" target="_blank"> 
+  <img src="https://img.shields.io/badge/HBase-777BB4?style=for-the-badge&logo=HBase&logoColor=white" target="_blank"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank">
@@ -38,10 +42,15 @@ In October 2021 I finished my cycle as a teacher at the institution CENAIC - CEN
   <img src="	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" target="_blank">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank">  
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank">    
+  <img src="https://img.shields.io/badge/Corel Draw-32A350?style=for-the-badge&logo=Corel-Draw&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/ETL-00000F?style=for-the-badge&logo=ETL&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/PENTAHO-005571?style=for-the-badge&logo=PENTAHO&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-00B2FF?style=for-the-badge&logo=SQL&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/NoSQL-5AC710?style=for-the-badge&logo=NoSQL&logoColor=white" target="_blank">
+  
   <hr>
   <img src="https://komarev.com/ghpvc/?username=gacarvalho&color=AEC3B0" target="_blank">
 </div>
