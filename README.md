@@ -8,11 +8,18 @@
 
 ---
 
-:floppy_disk: I am a professional focused on Data Engineering working in Telecom projects at Accenture Brasil, mainly on Big Data and analytics tools.
+:floppy_disk: As a Data Engineer, I have experience in various projects for national companies, including renowned clients such as Oi Telecom, Banco Next, and Banco Bradesco. I have extensive technical knowledge in Big Data Hadoop technologies, including the Hadoop Ecosystem, HDFS, Hive, Yarn, Linux, Shell, Spark, PySpark, SQL, and Python. In addition, I have skills in version control with SubVersion (SVN-GIT), Sqoop, Cloudera, JETL, MySQL, PostgreSQL, and Oracle. I also have experience in cloud environments, such as Azure Cloud, Azure Data Factory, Azure Databricks, and Azure Synapse.
 
-In October 2021 I finished my cycle as a teacher at the institution CENAIC - CENTRO NACIONAL INTEGRADO DE CURSOS, with more than 4 years and 9 months teaching technology courses and graduating dozens of students, where I was able to obtain my experience in the classroom. :date:
+In my previous position as a Data Architect at Oi Telecom, I provided support in the architecture and development of SQUAD demands, leading and guiding the team to achieve business objectives. Throughout my career as a Data Engineer and Architect, I have used Scrum and Kanban methodologies to ensure the efficient delivery of large-scale projects. I am always looking for new opportunities to apply my experience and skills in innovative Big Data and cloud solutions.
 
-:ferris_wheel: I am open to new experiences that allow me to develop my own technological skills in Data Engineer / Big Data and I think about expanding my experiences in both life and work 
+:ferris_wheel:  DATA ENGINEERING: • Big Data Hadoop • Spark • Hive • Yarn • PySpark • SQL • Sqoop • HDFS • Python • Linux • Shell 
+
+:ferris_wheel:  CLOUD: Azure Data Factory • Azure Databricks • Azure Synapse
+
+:ferris_wheel:  OTHERS: Git • Bitbucket • SVN (SubVersion) • JETL • Pentaho • MySQL • PostgreSQL • Oracle • MongoDB • Kibana • ElasticSearch • Logstash
+
+:ferris_wheel:  METHODOLOGY: Kanban / Scrum methodology - (Rally / Jira, Confluence)
+
 
 --- 
 
